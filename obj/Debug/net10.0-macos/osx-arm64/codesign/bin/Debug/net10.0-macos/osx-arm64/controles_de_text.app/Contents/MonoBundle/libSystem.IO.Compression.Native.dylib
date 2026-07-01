@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/marie/RiderProjects/controles_de_text/controles_de_text/bin/Debug/net10.0-macos/osx-arm64/controles_de_text.app/Contents/MonoBundle/libSystem.IO.Compression.Native.dylib
